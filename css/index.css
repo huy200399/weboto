@@ -1,0 +1,3564 @@
+.container
+{
+    max-width: 1200px;
+}
+.row
+{
+    margin: 0px;
+}
+.col
+{
+    padding: 0px;
+}
+
+.image1{
+    position: relative;
+    top: 0;
+    left: 0;
+
+}
+.rectangle{
+    position: absolute;
+    left: 6px;
+    top:0px;
+}
+.logo
+{
+    position: absolute;
+    top: 20px;
+    left: 63px;
+}
+.menu {
+    list-style:none;
+    display: flex;
+    position: absolute;
+
+    top :80px;
+    left: 250px;
+  
+    display: flex;
+    color: #FFFFFF;
+
+     font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 208.02%;
+  
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.menu .item {
+    margin:0px 25px;
+}
+
+.menu .item a {
+    color:white;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 600px;
+    height: 30px;
+    background: white;
+    position: absolute;
+    top :30px;
+    left: 270px;
+  }
+.group874
+{
+    position: absolute;
+    left: 915px;
+    top:50px;
+}
+.banner
+{
+    position: absolute;
+    width: 694px;
+    height: 364px;
+    left: -2px;
+    top: 227px;
+  
+}
+
+.banner h4
+{
+    /* DỊCH VỤ CHĂM SÓC XE */
+    position: absolute;
+    width: 249px;
+    height: 42px;
+    left: 250px;
+    top: 0px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 208.02%;
+    /* identical to box height, or 42px */
+    /* text-align: center;*/
+    letter-spacing: 0.2em; 
+
+    color: #E81C2E;
+}
+.banner h1
+{
+   /* AQUALINE */
+
+    position: absolute;
+    width: 327px;
+    height: px;
+    left: 10px;
+    top: 10px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+    
+}
+.banner h2
+{
+    /* AUTOCARE */
+
+    position: absolute;
+    width: 325px;
+    height: 150px;
+    left: 380px;
+    top: 20px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 80px;
+    /* line-height: 208.02%; */
+    /* identical to box height, or 200px */
+    text-align: center;
+
+    background: linear-gradient(90.21deg, #FFFFFF 2.02%, #D9D9D9 104.41%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+
+}
+.banner img
+{
+    /* Line 349 */
+
+    position: absolute;
+    width: 97.58px;
+    height: 0px;
+    left: 320px;
+    top: 130px;
+
+    border: 1px solid #FFFFFF;
+    transform: rotate(111.13deg);
+
+}
+.banner p
+{
+    position: absolute;
+    width: 643px;
+    height: 90px;
+    left: 31px;
+    top: 176px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 32px;
+    /* or 217% */
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+.button1
+{
+   /* Rectangle 1357 */
+
+    position: absolute;
+    width: 166px;
+    height: 41px;
+    left: 155px;
+    top: 323px;
+
+    background: #FFFFFF;
+    border-radius: 4px;
+    border-color: #FFFFFF;
+
+}
+.button2
+{
+    
+
+    position: absolute;
+    width: 166px;
+    height: 41px;
+    left: 352px;
+    top: 323px;
+
+    background: #E81C2E;
+    border-radius: 4px;
+    color: #FFFFFF ;
+    border-color: #E81C2E;
+ 
+}
+.title-service-1
+{
+    /* DỊCH VỤ CHĂM SÓC XE */
+
+    position: absolute;
+   
+    left: 200px;
+    top: 824px;
+    width: 351px;
+    height: 81px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 55px;
+    /* or 275% */
+    letter-spacing: 0.12em;
+    text-transform: capitalize;
+
+    color: #4D4D4D;
+
+
+}
+.title-service-2
+{
+    /* AQUALINE AUTOCARE */
+
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 30px;
+    top: 825px;
+
+    font-family: 'Barlow Condensed';
+    /* font-style: normal;*/
+    font-weight: 400;
+    font-size: 40px; 
+    /* line-height: 208.02%; */
+    /* or 133px */
+    /* text-align: center; */
+
+    color: #E81C2E;
+
+
+}
+.title-service-3
+{
+    /* AQUALINE AUTOCARE */
+
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 350px;
+    top: 825px;
+
+    font-family: 'Barlow Condensed';
+    /* font-style: normal;*/
+    font-weight: 400;
+    font-size: 40px; 
+    /* line-height: 208.02%; */
+    /* or 133px */
+    /* text-align: center; */
+
+    color:  #515151;
+ 
+}
+.title-service-4{
+  /* Peel To Reveal: Four Reasons To Consider A Professional Peel Treatment For Your Skin If you love coming to Eyebrow Ink Styling for our popular brow styling and permanent makeup services, you may not be aware that we also offer professional skincare services */
+
+    position: absolute;
+    width: 584px;
+    height: 161px;
+    left: 20px;
+    top: 985px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 37px;
+    /* or 247% */
+
+    color: #989898;
+
+
+
+}
+.text-main-4
+{
+    /* SẢN PHẨM CỦA AQUALINE AUTOCARE */
+
+        position: absolute;
+        width: 351px;
+        height: 81px;
+       
+        left: 559px;
+         top: 2950px; 
+
+        /* font-family: 'Barlow Condensed';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 55px; */
+        /* or 275% */
+        /* text-align: center;
+        letter-spacing: 0.12em;
+        text-transform: capitalize; 
+        
+        FFFFFF*/
+
+        color: red;
+
+
+}
+.rectangle1920
+{
+    /* Rectangle 1920 */
+
+    position: absolute;
+    width: 1100px;
+    height: 506px;
+    left: 58px;
+    top: 3149px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 35px rgba(255, 255, 255, 0.35);
+
+}
+.button3
+{
+    position: absolute;
+    width: 166px;
+    height: 41px;
+    left: 30px;
+    top: 1157px;
+    background: #E81C2E;
+    border-radius: 4px;
+    color: white;
+    border-color: #E81C2E;
+}
+.button4
+{
+    /* Rectangle 603 */
+
+    position: absolute;
+    width: 200px;
+    height: 42px;
+    left: 750px;
+    top: 3572px;
+    text-align : left 50px;
+    background: #E81C2E;
+    border: 2px solid #e7e7e7;
+    border-radius: 4px;
+    color: #FFFFFF;
+  
+}
+.images97
+{
+    position: absolute;
+    width: 550px;
+    height: 600px;
+    left: 650px;
+    top: 847px;
+}
+
+.vector7
+{
+    width: 550px;
+    height: 643px;
+    position: relative;
+    top: 0;
+    left: 650px;
+}
+
+.rectangle1903
+{
+    /* Rectangle 1903 */
+
+    position: absolute;
+    width: 1200px;
+    height: 173px;
+    left: 10px;
+    top: 1500px;
+
+    background: rgba(0, 0, 0, 0.68);
+
+
+}
+.rectangle1902
+{
+    /* Rectangle 1902 */
+
+    position: absolute;
+    width: 1200px;
+    height: 174px;
+    left: 10px;
+    top: 1500px;
+
+    background: url(image.png);
+
+
+}
+.cars
+{
+    position: absolute;
+    left: 1070px;
+    top: 65px;
+    color: #FFFFFF;
+    background-color: #000000;
+    border: none;
+}
+
+.aqualine
+{
+    position: absolute;
+    width: 223.92px;
+    height: 99.81px;
+    left: 317px;
+    top: 1103.48px;
+
+    font-family: 'SVN-Qalisha Signature';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 98px;
+
+    color: #3D3C3A;
+
+    transform: rotate(-5.25deg);
+}
+.line351
+{
+    /* Line 351 */
+
+    position: absolute;
+    width: 256.46px;
+    height: 0px;
+    left: 305px;
+    top: 1190px;
+
+    border: 1px solid #000000;
+    transform: rotate(-9.43deg);
+
+}
+.rectangle1900
+{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 288px;
+    height: 189px;
+    left: 20px;
+    top: 1239px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.rectangle1901
+{
+    position: absolute;
+    width: 288px;
+    height: 183px;
+    left: 340px;
+    top: 1239px;
+
+}
+
+.text-main-1
+{
+    /* SẢN PHẨM CỦA AQUALINE AUTOCARE */
+
+    position: absolute;
+    width: 351px;
+    height: 81px;
+    left: 420px;
+    top: 1680px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 55px;
+    /* or 275% */
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: capitalize;
+
+    color: #4D4D4D;
+
+
+}
+.text-main-2
+{
+    position: absolute;
+    width: 351px;
+    height: 81px;
+    left: 380px;
+    top: 1700px;
+
+    
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    /* line-height: 208.02%; */
+    /* or 133px */
+    
+    /* text-align: center; */
+    
+    color: #3E3E3E;
+    
+
+
+}
+.rectangle1824
+{
+    /* Rectangle 1824 */
+
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    left: 25px;
+    top: 1931px;
+
+    background: url(image.png);
+
+}
+.rectangle1826
+{
+    /* Rectangle 1826 */
+
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    left: 985px;
+    top: 1931px;
+
+    background: url(image.png);
+
+}
+.rectangle1918
+{
+    /* Rectangle 1918 */
+
+    position: absolute;
+    width: 1200px;
+    height: 819px;
+    left: 10px;
+    top: 2928px;
+
+
+
+}
+.rectangle922
+{
+    /* Rectangle 922 */
+
+    position: absolute;
+    width: 220px;
+    height: 422px;
+    left: 25px;
+    top: 2364px;
+
+    background: #FFFFFF;
+
+}
+.icons8_forward_212
+{
+    /* icons8_forward_2 12 */
+
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 840px;
+    top: 4470px;
+
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+}
+.icons8_forward_213
+{
+    /* icons8_forward_2 12 */
+
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 810px;
+    top: 4470px;
+
+    /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+
+
+}
+.rectangle1910
+{
+   
+    /* Rectangle 1910 */
+
+    position: absolute;
+    width: 220px;
+    height: 422px;
+    left: 265px;
+    top: 2364px;
+
+    background: #FFFFFF;
+
+
+}
+.rectangle9221
+{
+    /* Rectangle 1911 */
+
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    left: 25px;
+    top: 2374px;
+
+    background: url(image.png);
+
+}
+.rectangle1911
+{
+    /* Rectangle 1911 */
+
+
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    left: 265px;
+    top: 2378.8px;
+
+    background: url(image.png);
+
+
+    
+}
+.rectangle1915
+{
+    /* Rectangle 1915 */
+
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    left: 745px;
+    top: 2377px;
+
+    background: url(image.png);
+
+}
+.rectangle1917
+{
+    /* Rectangle 1917 */
+
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    left: 985px;
+    top: 2374px;
+
+    background: url(image.png), url(image.png);
+
+}
+.rectangle1913
+{
+    /* Rectangle 1913 */
+
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    left: 505px;
+    top: 2374px;
+
+    background: url(image.png);
+
+}
+.rectangle1912
+{
+    /* Rectangle 1912 */
+
+    position: absolute;
+    width: 220px;
+    height: 422px;
+    left: 505px;
+    top: 2364px;
+
+    background: #FFFFFF;
+
+}
+.rectangle1914
+{
+    /* Rectangle 1914 */
+
+    position: absolute;
+    width: 220px;
+    height: 422px;
+    left: 745px;
+    top: 2364px;
+
+    background: #FFFFFF;
+
+}
+.rectangle1916
+{
+    /* Rectangle 1916 */
+
+    position: absolute;
+    width: 220px;
+    height: 422px;
+    left: 985px;
+    top: 2364px;
+
+    background: #FFFFFF;
+
+}
+.rectangle1921
+{
+    /* Rectangle 1921 */
+
+    position: absolute;
+    width: 1200px;
+    height: 819px;
+    left: 10px;
+    top: 2928px;
+
+}
+.text-main-71
+{
+    /* Tire Car Wheel */
+
+    position: absolute;
+    width: 124px;
+    height: 100px;
+    left: 70px;
+    top: 2170px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+
+
+}
+        .container-1{
+        width: 550px;
+        vertical-align: middle;
+        white-space: nowrap;
+        position: absolute;
+        top :30px;
+        left: 270px;
+        height: 50px;
+        }
+        .container-1 input#search{
+        width: 600px;
+        height: 40px;
+        left: 50px;
+        top:270px;
+        background: #ffff;
+        border: none;
+        font-size: 10pt;
+        float: left;
+        color: #63717f;
+        padding-left: 45px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        }
+                .container-1 input#search::-webkit-input-placeholder {
+        color: #65737e;
+        }
+        .container-1 input#search:-moz-placeholder { /* Firefox 18- */
+        color: #65737e;  
+        }
+        .container-1 input#search::-moz-placeholder {  /* Firefox 19+ */
+        color: #65737e;  
+        }
+        .container-1 input#search:-ms-input-placeholder {  
+        color: #65737e;  
+        }
+        .container-1 input#search:hover, .container-1 input#search:focus, .container-1 input#search:active{
+        outline:none;
+        background: #ffffff;
+  }
+.text-main-72
+{
+    /* Price */
+
+    position: absolute;
+    width: 29px;
+    height: 14px;
+    left: 125px;
+    top: 2230px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #2C2C2C;
+
+
+}
+.text-main-73
+{
+        /* 42.000.000 VND */
+
+        position: absolute;
+        width: 96px;
+        height: 22px;
+        left: 90px;
+        top: 2245px;
+    
+    
+        font-family: 'Barlow Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 22px;
+        /* identical to box height */
+        text-align: center;
+        text-decoration-line: line-through;
+    
+        color: #969595;
+}
+.text-main-74
+{
+    /* 39.500.000 VNĐ */
+
+    position: absolute;
+    width: 144px;
+    height: 31px;
+    left: 80px;
+    top: 2260px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #E81C2E;
+
+
+}
+.line379
+{
+
+
+    position: absolute;
+    width: 179px;
+    height: 0px;
+    left: 50px;
+    top: 2230px;
+
+    border: 1px solid #BBBBBB;
+
+}
+.text-main-70
+{
+    /* Bremont brand */
+
+    position: absolute;
+    width: 62.66px;
+    height: 13.84px;
+    left: 100px;
+    top: 2150px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #4A4A4A;
+
+
+}
+.rectangle1823
+{
+       /* Rectangle 1923 */
+
+       position: absolute;
+       width: 220px;
+       height: 422px;
+       left: 25px;
+       top: 1921px;
+   
+       /* background: #FFFFFF; */
+}
+.rectangle1904
+{
+    /* Rectangle 1904 */
+
+    position: absolute;
+    width: 220px;
+    height: 422px;
+    left: 265px;
+    top: 1921px;
+
+    background: #FFFFFF;
+
+}
+.rectangle1905
+{
+    /* Rectangle 1905 */
+
+        position: absolute;
+        width: 220px;
+        height: 220px;
+        left: 265px;
+        top: 1931px;
+
+        background: url(image.png);
+
+}
+.rectangle1906
+{
+    /* Rectangle 1906 */
+
+    position: absolute;
+    width: 220px;
+    height: 422px;
+    left: 505px;
+    top: 1921px;
+
+    background: #FFFFFF;
+
+}
+.rectangle1908
+{
+    /* Rectangle 1908 */
+
+    position: absolute;
+    width: 220px;
+    height: 422px;
+    left: 745px;
+    top: 1921px;
+
+    background: #FFFFFF;
+
+}
+.rectangle1825
+{
+    /* Rectangle 1825 */
+
+    position: absolute;
+    width: 220px;
+    height: 422px;
+    left: 985px;
+    top: 1921px;
+
+    background: #FFFFFF;
+
+}
+.rectangle1907
+{
+
+
+  /* Rectangle 1907 */
+
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    left: 505px;
+    top: 1931px;
+
+    background: url(image.png);
+
+}
+.rectangle1909
+{
+    /* Rectangle 1909 */
+
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    left: 745px;
+    top: 1931px;
+
+    background: url(image.png);
+
+}
+.text-main-3
+{
+    position: absolute;
+    width: 351px;
+    height: 81px;
+    left: 610px;
+    top: 1700px;
+
+    
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    /* line-height: 208.02%; */
+    /* or 133px */
+    
+    /* text-align: center; */
+    
+    color: #E81C2E;
+}
+.text-main-5
+{
+    /* Bremont brand */
+
+    position: absolute;
+    width: 62.66px;
+    height: 13.84px;
+    left: 350px;
+    top: 2150px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+
+
+}
+.text-main-6
+{
+    /* Tire Car Wheel */
+
+    position: absolute;
+    width: 124px;
+    height: 100px;
+    left: 320px;
+    top: 2170px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-7
+{
+    /* Price */
+
+    position: absolute;
+    width: 29px;
+    height: 14px;
+    left: 360px;
+    top: 2225px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #2C2C2C;
+}
+.line352
+{
+    /* Line 352 */
+
+    position: absolute;
+    width: 179px;
+    height: 0px;
+    left: 290px;
+    top: 2230px;
+
+    border: 1px solid #DDDDDD;
+
+}
+.text-main-12
+{
+     /* Price */
+
+     position: absolute;
+     width: 29px;
+     height: 14px;
+     left: 580px;
+     top: 2225px;
+ 
+     font-family: 'Rubik';
+     font-style: normal;
+     font-weight: 500;
+     font-size: 15px;
+     line-height: 14px;
+     text-align: center;
+ 
+     color: #2C2C2C;
+}
+.text-main-13
+{
+     /* 42.000.000 VND */
+
+     position: absolute;
+     width: 96px;
+     height: 22px;
+     left: 555px;
+     top: 2245px;
+ 
+     font-family: 'Barlow Condensed';
+     font-style: normal;
+     font-weight: 300;
+     font-size: 15px;
+     line-height: 22px;
+     /* identical to box height */
+     text-align: center;
+     text-decoration-line: line-through;
+ 
+     color: #969595;
+}
+.text-main-14
+{
+    /* 39.500.000 VNĐ */
+
+    position: absolute;
+    width: 144px;
+    height: 31px;
+    left: 547px;
+    top: 2260px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #E81C2E;
+}
+.text-main-15
+{
+    position: absolute;
+    width: 62.66px;
+    height: 13.84px;
+    left: 820px;
+    top: 2150px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-16
+{
+    position: absolute;
+    width: 124px;
+    height: 100px;
+    left: 800px;
+    top: 2170px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-17
+{
+    position: absolute;
+    width: 29px;
+    height: 14px;
+    left: 840px;
+    top: 2225px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #2C2C2C;
+}
+.text-main-18
+{
+     /* 42.000.000 VND */
+
+     position: absolute;
+     width: 96px;
+     height: 22px;
+     left: 800px;
+     top: 2245px;
+ 
+     font-family: 'Barlow Condensed';
+     font-style: normal;
+     font-weight: 300;
+     font-size: 15px;
+     line-height: 22px;
+     /* identical to box height */
+     text-align: center;
+     text-decoration-line: line-through;
+ 
+     color: #969595;
+}
+.text-main-19
+{
+     /* 39.500.000 VNĐ */
+
+     position: absolute;
+     width: 144px;
+     height: 31px;
+     left: 780px;
+     top: 2260px;
+ 
+     font-family: 'Barlow Condensed';
+     font-style: normal;
+     font-weight: 500;
+     font-size: 26px;
+     line-height: 31px;
+     text-align: center;
+ 
+     color: #E81C2E;
+}
+.text-main-20
+{
+    position: absolute;
+    width: 62.66px;
+    height: 13.84px;
+    left: 1060px;
+    top: 2150px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-21
+{
+    position: absolute;
+    width: 124px;
+    height: 100px;
+    left: 1025px;
+    top: 2170px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-22
+{
+    position: absolute;
+    width: 29px;
+    height: 14px;
+    left: 1070px;
+    top: 2225px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #2C2C2C;
+}
+.text-main-23
+{
+     /* 42.000.000 VND */
+
+     position: absolute;
+     width: 96px;
+     height: 22px;
+     left: 1040px;
+     top: 2245px;
+ 
+     font-family: 'Barlow Condensed';
+     font-style: normal;
+     font-weight: 300;
+     font-size: 15px;
+     line-height: 22px;
+     /* identical to box height */
+     text-align: center;
+     text-decoration-line: line-through;
+ 
+     color: #969595;
+}
+.text-main-24
+{
+      /* 39.500.000 VNĐ */
+
+      position: absolute;
+      width: 144px;
+      height: 31px;
+      left: 1020px;
+      top: 2260px;
+  
+      font-family: 'Barlow Condensed';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 26px;
+      line-height: 31px;
+      text-align: center;
+  
+      color: #E81C2E;
+}
+.text-main-30
+{
+    /* Bremont brand */
+
+    position: absolute;
+    width: 62.66px;
+    height: 13.84px;
+    left: 340px;
+    top: 2600px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-26
+{
+    /* Tire Car Wheel */
+    position: absolute;
+    width: 124px;
+    height: 100px;
+    left: 70px;
+    top: 2620px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.line357
+{
+    position: absolute;
+    width: 179px;
+    height: 0px;
+    left: 50px;
+    top: 2680px;
+
+    border: 1px solid #DDDDDD;
+}
+.text-main-28
+{
+    position: absolute;
+    width: 96px;
+    height: 22px;
+    left: 70px;
+    top: 2700px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    text-decoration-line: line-through;
+
+    color: #969595;
+}
+.text-main-27
+{
+     /* Price */
+    position: absolute;
+    width: 29px;
+    height: 14px;
+    left: 100px;
+    top: 2680px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #2C2C2C;
+}
+.text-main-29
+{
+    position: absolute;
+    width: 144px;
+    height: 31px;
+    left: 50px;
+    top: 2710px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #E81C2E;
+}
+.text-main-31
+{
+    position: absolute;
+    width: 124px;
+    height: 100px;
+    left: 320px;
+    top: 2620px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-33
+{
+    position: absolute;
+    width: 96px;
+    height: 22px;
+    left: 320px;
+    top: 2700px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    text-decoration-line: line-through;
+
+    color: #969595;
+}
+.text-main-34
+{
+    position: absolute;
+    width: 144px;
+    height: 31px;
+    left: 300px;
+    top: 2710px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #E81C2E;
+}
+.text-main-39
+{
+    position: absolute;
+    width: 144px;
+    height: 31px;
+    left: 520px;
+    top: 2710px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #E81C2E;
+}
+.text-main-41
+{
+    position: absolute;
+    width: 124px;
+    height: 100px;
+    left: 780px;
+    top: 2620px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-32
+{
+     /* Price */
+    position: absolute;
+    width: 29px;
+    height: 14px;
+    left: 350px;
+    top: 2680px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #2C2C2C;
+}
+.line358
+{
+    
+    position: absolute;
+    width: 179px;
+    height: 0px;
+    left: 290px;
+    top: 2680px;
+
+    border: 1px solid #DDDDDD;
+}
+.text-main-35
+{
+    /* Bremont brand */
+
+    position: absolute;
+    width: 62.66px;
+    height: 13.84px;
+    left: 560px;
+    top: 2600px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-36
+{
+    
+    position: absolute;
+    width: 124px;
+    height: 100px;
+    left: 520px;
+    top: 2620px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-38
+{
+    position: absolute;
+    width: 96px;
+    height: 22px;
+    left: 540px;
+    top: 2700px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    text-decoration-line: line-through;
+
+    color: #969595;
+}
+.text-main-40
+{
+    /* Bremont brand */
+
+    position: absolute;
+    width: 62.66px;
+    height: 13.84px;
+    left: 800px;
+    top: 2600px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-45
+{
+    /* Bremont brand */
+
+    position: absolute;
+    width: 62.66px;
+    height: 13.84px;
+    left: 1050px;
+    top: 2600px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-43
+{
+    position: absolute;
+    width: 96px;
+    height: 22px;
+    left: 780px;
+    top: 2700px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    text-decoration-line: line-through;
+
+    color: #969595;
+}
+.text-main-44
+{
+    position: absolute;
+    width: 144px;
+    height: 31px;
+    left: 770px;
+    top: 2710px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #E81C2E;
+}
+.text-main-46
+{
+    position: absolute;
+    width: 124px;
+    height: 100px;
+    left: 1025px;
+    top: 2620px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-47
+{
+    position: absolute;
+    width: 29px;
+    height: 14px;
+    left: 1070px;
+    top: 2680px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #2C2C2C;
+}
+.text-main-48
+{
+    position: absolute;
+    width: 96px;
+    height: 22px;
+    left: 1050px;
+    top: 2700px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    text-decoration-line: line-through;
+
+    color: #969595;
+}
+.text-main-68
+{
+    /* Peel To Reveal: Four Reasons To Consider A Professional Peel Treatment For Your Skin If you love coming to Eyebrow Ink Styling for our popular brow styling and permanent makeup services, you may not be aware that we also offer professional skincare services */
+
+    position: absolute;
+    width: 450px;
+    height: 161px;
+    left: 50px;
+    top: 4432px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 15px;
+    line-height: 37px;
+    /* or 247% */
+
+    color: #FFFFFF;
+
+
+}
+.button5
+{
+  /* Group 924 */
+
+  position: absolute;
+  width: 166px;
+  height: 41px;
+  left: 50px;
+  top: 4656px;
+  background: #E81C2E;
+  border-radius: 4px;
+  color: white;
+
+
+}
+.aqualine2
+{
+    /* Aqualine */
+
+
+
+    position: absolute;
+    width: 223.92px;
+    height: 99.81px;
+    left: 270px;
+    top: 4585px;
+
+    font-family: 'SVN-Qalisha Signature';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 98px;
+
+    color: #F2F0EA;
+
+    transform: rotate(-5.25deg);
+
+
+}
+.text-main-67
+{
+    /* AFTER */
+
+    position: absolute;
+    width: 142px;
+    height: 133px;
+    left: 700px;
+    top: 4139px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 208.02%;
+    /* or 133px */
+    text-align: center;
+
+    /* border: 1px solid rgba(255, 255, 255, 0.48); */
+
+}
+.line381
+{
+    /* Line 381 */
+
+    position: absolute;
+    width: 256.46px;
+    height: 0px;
+    left: 270px;
+    top: 4680px;
+
+    border: 1px solid #FFFFFF;
+    transform: rotate(-9.43deg);
+
+}
+.text-main-49
+{
+    position: absolute;
+    width: 144px;
+    height: 31px;
+    left: 1030px;
+    top: 2710px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #E81C2E;
+}
+.line361
+{
+     position: absolute;
+    width: 179px;
+    height: 0px;
+    left: 1000px;
+    top: 2680px;
+
+
+    border: 1px solid #DDDDDD;
+}
+.line360
+{
+     position: absolute;
+    width: 179px;
+    height: 0px;
+    left: 760px;
+    top: 2680px;
+
+
+    border: 1px solid #DDDDDD;
+}
+.line380
+{
+    position: absolute;
+    width: 179px;
+    height: 0px;
+    left: 520px;
+    top: 2680px;
+
+
+    border: 1px solid #DDDDDD;
+}
+.text-main-25
+{
+    position: absolute;
+    width: 62.66px;
+    height: 13.84px;
+    left: 100px;
+    top: 2700px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-25
+{
+    position: absolute;
+    width: 62.66px;
+    height: 13.84px;
+    left: 100px;
+    top: 2600px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-37
+{
+     /* Price */
+    position: absolute;
+    width: 29px;
+    height: 14px;
+    left: 580px;
+    top: 2680px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #2C2C2C;
+}
+.text-main-42
+{
+    /* Price */
+    position: absolute;
+    width: 29px;
+    height: 14px;
+    left: 820px;
+    top: 2680px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #2C2C2C;
+}
+.line356
+{
+    
+    position: absolute;
+    width: 179px;
+    height: 0px;
+    left: 1000px;
+    top: 2230px;
+
+    border: 1px solid #DDDDDD;
+}
+.line354
+{
+      /* Line 354 */
+
+      position: absolute;
+      width: 179px;
+      height: 0px;
+      left: 770px;
+      top: 2230px;
+  
+      border: 1px solid #DDDDDD;
+}
+.line353
+{
+    /* Line 352 */
+
+    position: absolute;
+    width: 179px;
+    height: 0px;
+    left: 525px;
+    top: 2230px;
+
+    border: 1px solid #DDDDDD;
+
+}
+.group471
+{
+    /* Group 471 */
+
+        position: absolute;
+        width: 138px;
+        height: 86px;
+        left: 120px;
+        top: 1520px;
+
+
+
+        /* +800 */
+
+        position: absolute;
+        width: 145px;
+        height: 145px;
+        left: 110px;
+        top: 1520px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 48px;
+
+        color: #FFFFFF;
+
+
+
+        /* KHÁCH HÀNG */
+
+        position: absolute;
+        width: 145px;
+        height: 24px;
+        left: 110px;
+        top: 1520px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+
+        color: #FFFFFF;
+    }
+    .group472
+    {
+    /* Group 472 */
+
+    position: absolute;
+    width: 95px;
+    height: 86px;
+    left: 440px;
+    top: 1520px;
+
+
+
+    /* +50 */
+
+    position: absolute;
+    width: 81px;
+    height: 48px;
+    left: 430px;
+    top: 1520px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #FFFFFF;
+
+
+
+    /* NHÂN SỰ */
+
+    position: absolute;
+    width: 95px;
+    height: 24px;
+    left: 430px;
+    top: 1520px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+
+}
+.group473
+{
+    /* Group 473 */
+
+    position: absolute;
+    width: 188px;
+    height: 86px;
+    left: 670px;
+    top: 1520px;
+
+    /* +10 */
+
+    position: absolute;
+    width: 75px;
+    height: 48px;
+    left: 660px;
+    top: 1520px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #FFFFFF;
+
+
+
+    /* NĂM KINH NGHIỆM */
+
+    position: absolute;
+    width: 300px;
+    height: 24px;
+    left: 660px;
+    top: 1520px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+
+}
+.text-main-50
+{
+    /* SẢN PHẨM CỦA AQUALINE AUTOCARE */
+
+    position: absolute;
+    width: 351px;
+    height: 81px;
+    left: 470px;
+    top: 2978px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 55px;
+    /* or 275% */
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+}
+.text-main-51
+{
+    /* PREMIUM WASHING SEVICES */
+    position: absolute;
+    width: 612px;
+    height: 133px;
+    left: 180px;
+    top: 2950px;
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 208.02%;
+    /* or 133px */
+    text-align: center;
+
+    color: #E81C2E;
+}
+
+.text-main-52
+{
+    /* PREMIUM WASHING SEVICES */
+
+    position: absolute;
+    width: 612px;
+    height: 133px;
+    left: 500px;
+    top: 2950px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 208.02%;
+    /* or 133px */
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.text-main-53
+{
+    /* AQUALINE AUTOCARE */
+
+    position: absolute;
+    width: 351px;
+    height: 81px;
+    left: 750px;
+    top: 3140px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 55px;
+    /* or 275% */
+    letter-spacing: 0.12em;
+    text-transform: capitalize;
+
+    color: #969696;
+}
+.rectangle1922
+{
+    /* Rectangle 1922 */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 108px;
+    height: 34px;
+    left: 750px;
+    top: 3333px;
+
+    border: 1px solid #E81C2E;
+
+}
+.text-main-54
+{
+    /* DỊCH VỤ CHUẨN ĐOÁN TÌNH TRẠNG VÀ VỆ SINH XE */
+
+    position: absolute;
+    width: 400px;
+    height: 94px;
+    left: 750px;
+    top: 3200px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 146%;
+    /* or 47px */
+
+    color: #4F4F4F;
+
+
+}
+.text-main-55
+{
+    /* 40 PHÚT */
+
+    position: absolute;
+    width: 90px;
+    height: 55px;
+    left: 770px;
+    top: 3300px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 55px;
+    /* identical to box height, or 306% */
+    letter-spacing: 0.12em;
+    text-transform: capitalize;
+
+    color: #565454;
+
+
+}
+.correct1
+{
+    /* correct 1 */
+
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    left: 735px;
+    top: 3432px;
+
+
+}
+.correct2
+{
+    /* correct 1 */
+
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    left: 735px;
+    top: 3478px;
+
+
+}
+.correct3
+{
+    /* correct 1 */
+
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    left: 735px;
+    top: 3520px;
+
+
+}
+.text-main-56
+{
+    /* Miễn phí vận chuyển cho đơn hàng từ 1 triệu đồng trở lên */
+
+        position: absolute;
+        width: 403px;
+        height: 26px;
+        left: 770px;
+        top: 3418px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 26px;
+        /* identical to box height, or 173% */
+
+        color: #3F3F3F;
+
+
+}
+.text-main-57
+{
+    /* Giảm giá 10% tất cả mặt hàng trong dịp lễ tết */
+
+        position: absolute;
+        width: 319px;
+        height: 26px;
+        left: 770px;
+        top: 3463px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 26px;
+        /* identical to box height, or 173% */
+
+        color: #3F3F3F;
+
+
+}
+/* Và nhiều ưu đãi, quà tặng hấp dẫn khác */
+
+
+.text-main-58
+{
+    position: absolute;
+    width: 319px;
+    height: 26px;
+    left: 770px;
+    top: 3508px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    /* identical to box height, or 173% */
+
+    color: #3F3F3F;
+}
+.line329
+{
+    /* Line 329 */
+
+    position: absolute;
+    width: 390px;
+    height: 0px;
+    left: 735px;
+    top: 3396px;
+
+    border: 0.01px solid #3F3F3F;
+
+}
+.group474
+{
+    /* Group 474 */
+
+    position: absolute;
+    width: 233px;
+    height: 86px;
+    left: 1120px;
+    top: 1520px;
+
+
+
+    /* +100 */
+
+    position: absolute;
+    width: 102px;
+    height: 48px;
+    left: 1170px;
+    top: 1520px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #FFFFFF;
+
+
+
+    /* SẢN PHẨM PHỤC TÙNG */
+
+    position: absolute;
+    width: 233px;
+    height: 24px;
+    left: 940px;
+    top: 1520px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+
+}
+.rectangle1923
+{
+    /* Rectangle 1923 */
+
+    position: absolute;
+    width: 1200px;
+    height: 701px;
+    left: 10px;
+    top: 4132px;
+
+}
+.rectangle1928
+{
+    /* Rectangle 1923 */
+
+    position: absolute;
+    width: 1200px;
+    height: 701px;
+    left: 10px;
+    top: 4132px;
+
+}
+.rectangle1924
+{
+    /* Rectangle 1928 */
+
+   /* Rectangle 1928 */
+
+    position: absolute;
+    width: 1200px;
+    height: 701px;
+    left: 0px;
+    top: 4132px;
+
+    background: rgba(0, 0, 0, 0.84);
+
+
+}
+.text-main-59
+{
+    /* ĐÁNH GIÁ KHÁCH HÀNG */
+
+    position: absolute;
+    width: 230px;
+    height: 18px;
+    left: 50px;
+    top: 3800px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.15em;
+
+    color: #A6A6A6;
+
+
+}
+.text-main-60
+{
+    /* KHÁCH HÀNG NÓI GÌ VỀ AQUALINE AUTOCARE */
+
+    position: absolute;
+    width: 416px;
+    height: 96px;
+    left: 49px;
+    top: 3800px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #3E3E3E;
+
+
+}
+.text-main-61
+{
+    position: absolute;
+    width: 416px;
+    height: 96px;
+    left: 49px;
+    top: 3860px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #E81C2E;
+}
+.text-main-62
+{
+    /* Peel To Reveal: Four Reasons To Consider A Professional Peel Treatment For Your */
+
+    position: absolute;
+    width: 330px;
+    height: 83px;
+    left: 50px;
+    top: 3976px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 37px;
+    /* or 247% */
+    text-align: justify;
+
+    color: #989898;
+
+
+}
+.rectangle1719
+{
+    /* Rectangle 1719 */
+
+    position: absolute;
+    width: 300px;
+    height: 272px;
+    left: 420px;
+    top: 3822px;
+/*     
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.11); */
+
+}
+.text-main-100
+{
+    /* Phan Văn Khánh */
+
+    position: absolute;
+    width: 111px;
+    height: 29px;
+    left: 520px;
+    top: 3842px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 208.02%;
+    /* or 29px */
+    text-align: center;
+
+    color: #000000;
+
+
+}
+.text-top-1
+{
+    position: absolute;
+    left: 1005px;
+    top: 52px;
+    color: #FFFFFF;
+    width: 10px;
+    height: 10px;
+}
+.line350
+{
+    position: absolute;
+   
+    left: 90px;
+    top: 870px;
+}
+
+.danhmuc
+{
+    position: absolute;
+    left: 750px;
+    height: 42px;
+    top: 29px;
+    background-color: #ffff;
+    border-radius: 4px;
+}
+.text-main-101
+{
+    /* Coder */
+
+    position: absolute;
+    width: 39px;
+    height: 27px;
+    left: 520px;
+    top: 3862px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 208.02%;
+    /* identical to box height, or 27px */
+    text-align: center;
+
+    color: #0F36F7;
+}
+.text-main-104
+{
+    /* Coder */
+
+    position: absolute;
+    width: 39px;
+    height: 27px;
+    left: 810px;
+    top: 3859px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 208.02%;
+    /* identical to box height, or 27px */
+    text-align: center;
+
+    color: #0F36F7;
+
+
+}
+.stars2
+{
+    /* Stars */
+    position: absolute;
+    width: 114.23px;
+    height: 17.3px;
+    left: 750px;
+    top: 3909px;
+
+}
+.text-main-105
+{
+    /* Peel To Reveal: Four Reasons To Consider A Professional Peel Treatment For Your Skin If you love coming to Eyebrow */
+
+        position: absolute;
+        width: 200px;
+        height: 116px;
+        left: 750px;
+        top: 3922px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 37px;
+        /* or 247% */
+        text-align: justify;
+
+        color: #989898;
+
+
+}
+.group1844
+{
+    /* Rectangle 1844 */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 189px;
+    height: 54px;
+    left: 1010px;
+    top: 49px;
+
+    border: 1px solid #595959;
+    border-radius: 4px;
+
+}
+.ellipse809
+{
+    position: absolute;
+    left: 996px;
+    top: 62px;
+}
+.shoppingcart
+{
+    /* shopping-cart (1) 3 */
+
+
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    left: 1030px;
+    top: 60px;
+
+}
+.text-main-102
+{
+    /* Peel To Reveal: Four Reasons To Consider A Professional Peel Treatment For Your Skin If you love coming to Eyebrow */
+
+    position: absolute;
+    width: 200px;
+    height: 116px;
+    left: 455px;
+    top: 3922px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 37px;
+    /* or 247% */
+    text-align: justify;
+
+    color: #989898;
+}
+.stars
+{
+
+    position: absolute;
+    width: 114.23px;
+    height: 17.3px;
+    left: 455px;
+    top: 3912px;
+}
+.ellipse779
+{
+    /* Ellipse 779 */
+
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 455px;
+    top: 3842px;
+
+    background: url(image.png);
+
+}
+.ellipse780
+{
+    /* Ellipse 780 */
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 750px;
+    top: 3839px;
+    background: url(image.png);
+}
+.text-main-103
+{
+    /* Phan Văn Khánh */
+
+    position: absolute;
+    width: 111px;
+    height: 29px;
+    left: 810px;
+    top: 3839px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 208.02%;
+    /* or 29px */
+    text-align: center;
+
+    color: #000000;
+
+
+}
+.rectangle1720
+{
+    /* Rectangle 1719 */
+
+    position: absolute;
+    width: 300px;
+    height: 272px;
+    left: 710px;
+    top: 3822px;
+    
+    /* background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.11); */
+
+}
+
+.rectangle1925
+{
+/* Rectangle 1925 */
+
+    position: absolute;
+    width: 280px;
+    height: 450px;
+    left: 560px;
+    top: 4280px;
+
+    background: url(image.png);
+
+}
+.rectangle1926
+{
+    /* Rectangle 1926 */
+
+    position: absolute;
+    width: 280px;
+    height: 450px;
+    left: 840px;
+    top: 4280px;
+
+    background: url(image.png);
+
+}
+.after
+{
+    /* AFTER */
+
+    position: absolute;
+    width: 142px;
+    height: 48px;
+    left: 558px;
+    top: 4225px;
+}
+.before
+{
+    /* BEFORE */
+
+    position: absolute;
+    width: 142px;
+    height: 48px;
+    left: 980px;
+    top: 4740px;
+
+}
+.footer-text-2
+{
+    /* Đăng ký ngay để nhận khuyến mãi từ AQUALINE AUTOCARE */
+
+    position: absolute;
+    width: 932px;
+    height: 37px;
+    left: 50px;
+    top: 5050px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 37px;
+    /* identical to box height, or 185% */
+
+    color: #FFFFFF;
+
+
+}
+.rectangle91
+{
+    /* Rectangle 91 */
+    position: absolute;
+    width: 100px;
+    height: 101px;
+    left: 49px;
+    top: 4869px;
+
+    background: url(image.png);
+    mix-blend-mode: luminosity;
+    opacity: 0.75;
+    border-radius: 8px;
+
+
+}
+.text-main-63
+{
+    /* DỊCH VỤ CHĂM SÓC XE */
+
+        position: absolute;
+        width: 351px;
+        height: 81px;
+        left: 172px;
+        top: 4213px;
+
+        font-family: 'Barlow Condensed';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 55px;
+        /* or 275% */
+        letter-spacing: 0.12em;
+        text-transform: capitalize;
+
+        color: #FFF6F6;
+
+
+}
+.line359
+{
+    /* Line 359 */
+
+    position: absolute;
+    width: 98px;
+    height: 0px;
+    left: 50px;
+    top: 4260px;
+
+    border: 1px solid #FFFFFF;
+    transform: rotate(180deg);
+
+}
+
+.rectangle91
+{
+    /* Rectangle 91 */
+
+    position: absolute;
+    width: 207px;
+    height: 101px;
+    left: 49px;
+    top: 4869px;
+
+    mix-blend-mode: luminosity;
+    opacity: 0.75;
+    border-radius: 8px;
+
+}
+.rectangle92
+{
+    /* Rectangle 92 */
+
+    position: absolute;
+    width: 207px;
+    height: 101px;
+    left: 276px;
+    top: 4869px;
+
+    mix-blend-mode: luminosity;
+    opacity: 0.75;
+    border-radius: 8px;
+
+}
+.text-main-64
+{
+    /* AQUALINE AUTOCARE */
+
+    position: absolute;
+    width: 100px;
+    height: 133px;
+    left: 50px;
+    top: 4241px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 208.02%;
+    /* or 133px */
+    text-align: center;
+
+    color: #E81C2E;
+
+
+}
+.text-main-65
+{
+    position: absolute;
+    width: 100px;
+    height: 133px;
+    left: 240px;
+    top: 4241px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 208.02%;
+    /* or 133px */
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.rectangle93
+{
+    /* Rectangle 93 */
+
+    position: absolute;
+    width: 207px;
+    height: 101px;
+    left: 503px;
+    top: 4869px;
+
+    background: url(image.png);
+    mix-blend-mode: luminosity;
+    opacity: 0.75;
+    border-radius: 8px;
+
+}
+.text-main-66
+{
+    /* LAU MỌI VẾT BẨN TRONG XE VÀ CỐP XE */
+
+    position: absolute;
+    width: 476px;
+    height: 47px;
+    left: 55px;
+    top: 4372px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 146%;
+    /* identical to box height, or 47px */
+
+    color: #FFFFFF;
+
+}
+.rectangle1919
+{
+    /* Rectangle 1919 */
+
+    position: absolute;
+    width: 650px;
+    height: 506px;
+    left: 58px;
+    top: 3149px;
+
+    background: url(image.png);
+
+}
+.rectangle94
+{
+    /* Rectangle 94 */
+
+    position: absolute;
+    width: 207px;
+    height: 101px;
+    left: 730px;
+    top: 4869px;
+
+    background: url(image.png);
+    background-blend-mode: multiply;
+    mix-blend-mode: luminosity;
+    opacity: 0.75;
+    border-radius: 8px;
+
+}
+
+.text-main-8
+{
+    /* 42.000.000 VND */
+
+    position: absolute;
+    width: 96px;
+    height: 22px;
+    left: 325px;
+    top: 2245px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    text-decoration-line: line-through;
+
+    color: #969595;
+
+
+}
+.text-main-9
+{
+    /* 39.500.000 VNĐ */
+
+    position: absolute;
+    width: 144px;
+    height: 31px;
+    left: 310px;
+    top: 2260px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #E81C2E;
+
+
+}
+.text-main-10
+{
+    position: absolute;
+    width: 62.66px;
+    height: 13.84px;
+    left: 580px;
+    top: 2150px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.text-main-11
+{
+    position: absolute;
+    width: 124px;
+    height: 100px;
+    left: 540px;
+    top: 2170px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #5F5F5F;
+}
+.rectangle95
+{
+    /* Rectangle 95 */
+
+    position: absolute;
+    width: 207px;
+    height: 101px;
+    left: 957px;
+    top: 4869px;
+
+    background: url(image.png);
+    mix-blend-mode: luminosity;
+    opacity: 0.75;
+    border-radius: 8px;
+
+}
+.rectangle96
+{
+    /* Rectangle 96 */
+
+    position: absolute;
+    width: 207px;
+    height: 101px;
+    left: 1184px;
+    top: 4869px;
+
+    background: url(image.png);
+    mix-blend-mode: luminosity;
+    opacity: 0.75;
+    border-radius: 8px;
+
+}
+
+.rectangle1818 
+{
+    /* Rectangle 1818 */
+
+    position: absolute;
+    width: 1200px;
+    height: 129px;
+    left: 0px;
+    top: 5005px;
+
+}
+.rectangle1819
+{
+    /* Rectangle 1819 */
+
+position: absolute;
+width: 1200px;
+height: 132px;
+left: 0px;
+top: 5003px;
+
+background: rgba(0, 0, 0, 0.75);
+
+}
+.footer-text-1
+{
+    /* ĐĂNG KÝ NHẬN KHUYẾN MÃI TỪ AQUALINE AUTOCARE */
+
+    position: absolute;
+    width: 600px;
+    height: 47px;
+    left: 50px;
+    top: 4990px;
+
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 146%;
+    /* identical to box height, or 47px */
+
+    color: #FFFFFF;
+}
+.footer-text-5
+{
+    /* Peel To Reveal: Four Reasons To Consider A Professional Peel Treatment For Your Skin If you love coming */
+
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    left: 45px;
+    top: 5320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 214% */
+    text-align: justify;
+
+    color: #4A4A4A;
+
+
+}
+form.example-1 input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 350px;
+    height: 50px;
+    background: white;
+    position: absolute;
+    left: 680px;
+    top: 5041px;
+    /* Rectangle 971 */
+  }
+  .button6
+  {
+    
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    left: 1032px;
+    top: 5041px;
+    color: #FFFFFF;
+    background: #E81C2E;
+    border-radius: 4px;
+  }
+  .logo1
+  {
+    /* image 98 */
+
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    left: 153px;
+    top: 5162px;
+
+    background: url(image.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+  }
+  .footer-text-6
+  {
+    /* Thông Tin */
+
+    position: absolute;
+    width: 90px;
+    height: 22px;
+    left: 428px;
+    top: 5206px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #4A4A4A;
+  }
+  .footer-text-4
+  {
+        /* AQUALINE AUTOCARE */
+
+        position: absolute;
+        width: 100px;
+        height: 133px;
+        left: 205px;
+        top: 5210px;
+    
+        font-family: 'Barlow Condensed';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 208.02%;
+        /* or 133px */
+        text-align: center;
+    
+        color: #E81C2E;
+  }
+  .footer-text-7
+  {
+    /* Địa Chỉ : 45/57 Đường Số 3, Bình Hưng Hòa, Bình Tân, Tp.Hồ Chí Minh Số Điện Thoại: 0938 748 088 Email: dinhdool@andokalogistics.com Website: andokalogistics.com */
+
+    position: absolute;
+    width: 308px;
+    height: 132px;
+    left: 429px;
+    top: 5241px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    /* or 214% */
+
+    color: #393939;
+
+
+  }
+  .footer-text-3
+  {
+    position: absolute;
+    width: 100px;
+    height: 133px;
+    left: 50px;
+    top: 5210px;
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 208.02%;
+    /* or 133px */
+    text-align: center;
+
+    color: #969595;
+  }
+  .footer-text-8
+  {
+    /* Chính Sách */
+
+    position: absolute;
+    width: 101px;
+    height: 22px;
+    left: 829px;
+    top: 5206px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #525050;
+  }
+  .footer-text-9
+  {
+    /* Quy định đăng tin */
+
+    position: absolute;
+    width: 118px;
+    height: 17px;
+    left: 830px;
+    top: 5253px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    color: #393939;
+
+
+  }
+  .footer-text-10
+  {
+    /* Điều khoản thỏa thuận */
+
+    position: absolute;
+    width: 150px;
+    height: 17px;
+    left: 830px;
+    top: 5290px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    color: #393939;
+
+
+  }
+  .footer-text-11
+  {
+    /* Chính sách bảo mật */
+
+    position: absolute;
+    width: 132px;
+    height: 17px;
+    left: 830px;
+    top: 5323px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    color: #393939;
+  }
+
+  .footer-text-12
+  {
+    /* Góp ý báo lỗi */
+
+    position: absolute;
+    width: 87px;
+    height: 17px;
+    left: 830px;
+    top: 5357px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    color: #393939;
+
+
+  }
+  .footer-text-13
+  {
+    /* Về Chúng Tôi */
+
+    position: absolute;
+    width: 117px;
+    height: 22px;
+    left: 1050px;
+    top: 5206px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #4A4A4A;
+  }
+.icons8_facebook
+{
+    /* icons8_facebook_f 3 */
+
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1050px;
+    top: 5259px;
+}
+.icon
+{
+    
+    position: absolute;
+    left: 10px;
+    height: 50px;
+    top: 10px;
+}
+.linkedin3
+{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1080px;
+    top: 5259px;
+}
+.tiktok3
+{
+        /* tik-tok 3 */
+
+    position: absolute;
+    width: 24px;
+    height: 22px;
+    left: 1110px;
+    top: 5259px;
+}
+.line334
+{
+    /* Line 334 */
+
+    position: absolute;
+    width: 1150px;
+    height: 0px;
+    left: 20px;
+    top: 5450px;
+
+    border: 1px solid #4A4A4A;
+}
+.footer-text-14
+{
+    /* Copyright © 2023 AQULINE AUTOCARE. All rights reserved. Design by i-web.vn */
+
+    position: absolute;
+    width: 539px;
+    height: 25px;
+    left: 400px;
+    top: 5470px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    /* identical to box height, or 179% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.0072em;
+
+    color: #4A4A4A;
+
+
+}
+
+
+
+
+
+
